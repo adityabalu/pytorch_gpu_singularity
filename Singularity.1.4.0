@@ -19,6 +19,9 @@ conda install -c anaconda opencv
 #scikit-learn
 conda install -c anaconda scikit-learn
 
+#matplotlib
+pip install matplotlib
+
 #simpleitk
 conda install -c simpleitk simpleitk
 
