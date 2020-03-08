@@ -13,6 +13,16 @@ pip install --upgrade pip
 #pytorch
 conda install -c pytorch pytorch==1.4.0 torchvision cudatoolkit=10.0
 
+## tensorboard
+conda install -c conda-forge tensorboard
+
+## tensorboardX
+pip install tensorboardX
+
+
+## tsne-cuda
+conda install tsnecuda cuda101 -c cannylab
+
 #opencv
 conda install -c anaconda opencv
 
