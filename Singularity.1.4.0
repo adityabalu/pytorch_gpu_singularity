@@ -20,7 +20,7 @@ conda install -c anaconda opencv
 conda install -c anaconda scikit-learn
 
 #matplotlib
-pip install matplotlib
+pip install matplotlib h5py
 
 #simpleitk
 conda install -c simpleitk simpleitk
