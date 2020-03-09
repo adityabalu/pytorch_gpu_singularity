@@ -21,7 +21,7 @@ pip install tensorboardX
 
 
 ## tsne-cuda
-conda install tsnecuda cuda101 -c cannylab
+##conda install tsnecuda cuda101 -c cannylab
 
 #opencv
 conda install -c anaconda opencv
